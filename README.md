@@ -1,8 +1,14 @@
-<h1>👋 Hi, I’m Vu Nguyen </h1>
+<h1 align="center">👋 Hi, I’m Vu Nguyen </h1>
 <div align="center">
     <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 </div>
-<h2 align="center"> 💻 Tech Stack 💻</h2>
+
+<h2> 👨🏽‍💻 About me </h2>
+<p>
+- 🏫 I'am currently working on <a href="https://portal.ptit.edu.vn/">PTIT - Posts and Telecommunications Institute of Technology</a>
+</p>
+
+<h2> 💻 Tech Stack</h2>
 
 <span
     ><img
@@ -91,7 +97,7 @@
 <br>
 
 
-<h2 align="center">️🏆 GitHub Stats ️🏆</h2>
+<h2>️🏆 GitHub Stats</h2>
 <br>
 
 <div align="center">
@@ -108,7 +114,7 @@
     <br>
 </div>
 
-<h2 align="center">🌍 Where to find me? 🌍</h2>
+<h2>🌍 Where to find me?</h2>
 <br>
 <a href="https://www.facebook.com/vunguyen.2702">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
