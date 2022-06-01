@@ -1,96 +1,93 @@
 <h1>👋 Hi, I’m Vu Nguyen </h1>
-<p>Hihi</p>
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<div align="center">
+    <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+</div>
+<h2 align="center"> 💻 Tech Stack 💻</h2>
 
 <span
     ><img
-        src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E"
+        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
         alt="JavaScript logo"
         title="JavaScript"
         height="25"
 /></span>
-&nbsp;
 <span
     ><img
-        src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200"
+        src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
         alt="Node.js logo"
         title="Node.js"
         height="25"
 /></span>
-&nbsp;
 <span
     ><img
-        src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF"
+        src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"
         alt="Express.js logo"
         title="Express.js"
         height="25"
 /></span>
-&nbsp;
 <span
     ><img
-        src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248"
+        src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
         alt="MongoDB logo"
         title="MongoDB"
         height="25"
 /></span>
-&nbsp;
 <span
     ><img
-        src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=33ccff"
+        src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
         alt="mysql logo"
         title="Mysql"
         height="25"
 /></span>
-&nbsp;
 <span
     ><img
-        src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26"
+        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
         alt="HTML5 logo"
         title="HTML5"
         height="25"
 /></span>
-&nbsp;
 <span
     ><img
-        src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6"
+        src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
         alt="CSS3 logo"
         title="CSS3"
         height="25"
 /></span>
-&nbsp;
 <span
     ><img
-        src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007ACD"
+        src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
         alt="java logo"
         title="java"
         height="25"
 /></span>
-&nbsp;
 <span
     ><img
-        src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3"
+        src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
         alt="Bootstrap logo"
         title="Bootstrap"
         height="25"
 /></span>
-&nbsp;
 <span
     ><img
-        src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032"
+        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
         alt="git logo"
         title="git"
         height="25"
 /></span>
-&nbsp;
 <span
     ><img
-        src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"
+        src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
         alt="Visual Studio Code logo"
         title="Visual Studio Code"
         height="25"
 /></span>
-&nbsp;
-
+<span
+    ><img
+        src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+        alt="Python logo"
+        title="Python"
+        height="25"
+/></span>
 <br>
 
 
@@ -110,3 +107,10 @@
     />
     <br>
 </div>
+
+<h2 align="center">🌍 Where to find me? 🌍</h2>
+<br>
+<a href="https://www.facebook.com/vunguyen.2702">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="Facebook"/>
+</a>
