@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Vu Nguyen </h1>
+<h1>👋 Hi, I’m Vu Nguyen </h1>
 <div align="center">
     <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 </div>
