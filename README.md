@@ -9,8 +9,8 @@
 <div class="aboutme">
     <h2> 👨🏽‍💻 About me </h2>
     <p>
-    - 🏫 I'am studing at <a href="https://portal.ptit.edu.vn/">PTIT - Posts and Telecommunications Institute of Technology</a>
-    - 🏫 I'am currently working on <a href="https://www.vmogroup.com">VMO Holdings</a>
+    - 🏫 I'am studing at <a href="https://portal.ptit.edu.vn/">PTIT - Posts and Telecommunications Institute of Technology</a><br>
+    - 🏢 I'am currently working on <a href="https://www.vmogroup.com">VMO Holdings</a>
     </p>
 </div>
 <br>
